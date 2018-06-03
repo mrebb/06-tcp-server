@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://travis-ci.com/mrebb/06-tcp-server.svg?branch=master">
 Chat module
 ============
 @all - Sends message to everyone on the chatroom with a message typed in. 
