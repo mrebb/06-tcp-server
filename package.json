@@ -1,0 +1,34 @@
+{
+  "name": "06-tcp-server",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) Lab 06: TCP Chat Server ======",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "eslint": "^4.19.1",
+    "fs": "0.0.1-security",
+    "quokka": "0.0.7"
+  },
+  "devDependencies": {
+    "jest": "^22.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrebb/06-tcp-server.git"
+  },
+  "author": "Madhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrebb/06-tcp-server/issues"
+  },
+  "homepage": "https://github.com/mrebb/06-tcp-server#readme"
+}
